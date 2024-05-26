@@ -1,4 +1,6 @@
 [
     {"url": "https://www.google.com", "status": "Unknown", "ssl_expiry": "Unknown"},
+    {"url": "https://www.devopstricks.in", "status": "Unknown", "ssl_expiry": "Unknown"},
+    {"url": "https://www.techbeginner.in", "status": "Unknown", "ssl_expiry": "Unknown"},
     {"url": "https://www.github.com", "status": "Unknown", "ssl_expiry": "Unknown"}
 ]
